@@ -8,6 +8,6 @@ def test(request):
     return HttpResponse(rr(5))
 
 def rr(n):
-    return
+    return n
 
 
